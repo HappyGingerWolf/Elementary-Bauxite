@@ -1,0 +1,9 @@
+name: "elementary-bauxite"
+displayName: "[red]Elementary Bauxite"
+author: "GingerWolf"
+description: "A side mod for Elementary which modifies bauxite to be a floor tile."
+version: "1"
+minGameVersion: "103"
+dependencies: [
+  happygingerwolf/elementary
+]
