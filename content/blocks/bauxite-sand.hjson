@@ -1,5 +1,5 @@
 type: floor
 name: Bauxite Sand
-itemDrop: bauxite
+itemDrop: elementary-bauxite
 variants: 3
 playerUnmineable: true
